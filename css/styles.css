@@ -1,0 +1,135 @@
+body {
+  font-family: "Inconsolata", monospace;
+  text-align: center;
+
+}
+
+#title .container-fluid {
+  padding: 0;
+}
+
+/*navbar*/
+
+.fas {
+  padding: 15px;
+}
+
+.nav-item {
+  padding: 10px 10px;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-size: 1.5rem;
+  color: #000000;
+}
+
+.navbar {
+  text-align: left;
+  background-color: #fbf2f7;
+}
+
+.navbar-brand {
+  font-family: "PT serif";
+  font-size: 2.5rem;
+  padding-left: 5%;
+}
+
+
+/* shop carousel*/
+
+ .shop-image {
+  width: 100%;
+  max-height:90vh;
+ }
+
+.carousel-inner {
+  width: 100%;
+}
+
+.shop-now {
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  font-size: 5vw;
+  text-align: left;
+  color: #ffffff;
+}
+
+/*Product card*/
+
+.cookies-card {
+  margin: 5%;
+
+}
+
+.cookies-heading {
+  padding: 2% 0;
+  font-size: 4vw;
+}
+
+
+/*store-collection*/
+
+.store-container {
+  margin: 5%;
+}
+
+.store-heading {
+  font-size: 4vw;
+}
+
+/*Feature section*/
+
+.feature-title {
+  margin: 5%;
+}
+
+.feature-heading {
+  font-size: 4vw;
+}
+
+.feature-icon {
+  color:#fddeef;
+  margin-bottom: 1rem;
+}
+
+.feature-section {
+  margin: auto;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-container {
+  margin: 5% 2% 0 2%;
+}
+
+.vr {
+  min-height: 10rem;
+  align-self: auto;
+}
+
+
+/* Contact section*/
+
+.contact-container {
+  background-color: #f9d2e7;
+  margin-top: 3%;
+  padding: 2% 1%;
+}
+
+.contact-section {
+  margin: auto;
+  text-align: left;
+}
+
+h6 {
+  font-size: 1.5rem;
+  padding-bottom: 2%;
+}
+
+.Email {
+  margin-bottom: 5%;
+}
